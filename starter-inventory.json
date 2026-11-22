@@ -54,16 +54,11 @@
       "image": "images/30th-upc-day.jpg"
     },
     {
-      "id": "chase-30th-upc",
-      "name": "30TH UPC",
-      "quantity": 80,
-      "category": "Chases"
-    },
-    {
       "id": "chase-charizard-upc",
       "name": "Charizard UPC",
       "quantity": 57,
-      "category": "Chases"
+      "category": "Chases",
+      "image": "images/charizard-upc.jpg"
     },
     {
       "id": "chase-delta-reign-bb",
@@ -186,7 +181,8 @@
       "id": "filler-30th-figure",
       "name": "30th Figure collection",
       "quantity": 46,
-      "category": "Fillers"
+      "category": "Fillers",
+      "image": "images/30th-figure-collection.jpg"
     },
     {
       "id": "filler-pitch-black-bb",
