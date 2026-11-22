@@ -1,0 +1,220 @@
+{
+  "app": "StockScan",
+  "kind": "starter-inventory",
+  "sheet": "Updated 11/17",
+  "note": "Names, quantities, and Chases/Fillers categories only. Cost and total cost are not included.",
+  "items": [
+    {
+      "id": "chase-30th-celebration-etb",
+      "name": "30TH Celebration ETB",
+      "quantity": 193,
+      "category": "Chases",
+      "image": "images/30th-celebration-etb.jpg"
+    },
+    {
+      "id": "chase-prismatic-spc",
+      "name": "Prismatic SPC",
+      "quantity": 170,
+      "category": "Chases",
+      "image": "images/prismatic-spc.jpg"
+    },
+    {
+      "id": "chase-prismatic-etb",
+      "name": "Prismatic ETB",
+      "quantity": 167,
+      "category": "Chases",
+      "image": "images/prismatic-etb.jpg"
+    },
+    {
+      "id": "chase-ascended-etb",
+      "name": "Ascended ETB",
+      "quantity": 131,
+      "category": "Chases",
+      "image": "images/ascended-etb.jpg"
+    },
+    {
+      "id": "chase-destined-rivals-etb",
+      "name": "Destined Rivals ETB",
+      "quantity": 82,
+      "category": "Chases",
+      "image": "images/destined-rivals-etb.jpg"
+    },
+    {
+      "id": "chase-30th-upc-night",
+      "name": "30th UPC (night)",
+      "quantity": 41,
+      "category": "Chases",
+      "image": "images/30th-upc-night.jpg"
+    },
+    {
+      "id": "chase-30th-upc-day",
+      "name": "30th UPC (day)",
+      "quantity": 30,
+      "category": "Chases",
+      "image": "images/30th-upc-day.jpg"
+    },
+    {
+      "id": "chase-30th-upc",
+      "name": "30TH UPC",
+      "quantity": 80,
+      "category": "Chases"
+    },
+    {
+      "id": "chase-charizard-upc",
+      "name": "Charizard UPC",
+      "quantity": 57,
+      "category": "Chases"
+    },
+    {
+      "id": "chase-delta-reign-bb",
+      "name": "Delta Reign Booster Boxes",
+      "quantity": 26,
+      "category": "Chases",
+      "image": "images/delta-reign-booster-box.jpg"
+    },
+    {
+      "id": "chase-phantasmal-flames-etb",
+      "name": "Phantasmal Flames ETB",
+      "quantity": 13,
+      "category": "Chases",
+      "image": "images/phantasmal-flames-etb.jpg"
+    },
+    {
+      "id": "chase-astral-radiance-etb",
+      "name": "Astral Radiance ETB",
+      "quantity": 6,
+      "category": "Chases",
+      "image": "images/astral-radiance-etb.jpg"
+    },
+    {
+      "id": "chase-mega-evolution-etb",
+      "name": "Mega Evolution ETB",
+      "quantity": 2,
+      "category": "Chases"
+    },
+    {
+      "id": "chase-white-flare-etb",
+      "name": "White Flare ETB",
+      "quantity": 5,
+      "category": "Chases",
+      "image": "images/white-flare-etb.jpg"
+    },
+    {
+      "id": "chase-brilliant-stars-etb",
+      "name": "Brilliant Stars ETB",
+      "quantity": 3,
+      "category": "Chases",
+      "image": "images/brilliant-stars-etb.jpg"
+    },
+    {
+      "id": "filler-floor-packs",
+      "name": "Floor Packs",
+      "quantity": 44280,
+      "category": "Fillers"
+    },
+    {
+      "id": "filler-30th-mini-tins",
+      "name": "30th Mini Tins",
+      "quantity": 821,
+      "category": "Fillers",
+      "image": "images/30th-mini-tins.jpg"
+    },
+    {
+      "id": "filler-30th-knockout",
+      "name": "30th Knockout Collection",
+      "quantity": 321,
+      "category": "Fillers",
+      "image": "images/30th-knockout.jpg"
+    },
+    {
+      "id": "filler-first-partners-s3",
+      "name": "First Partners S3",
+      "quantity": 258,
+      "category": "Fillers",
+      "image": "images/first-partners-s3.jpg"
+    },
+    {
+      "id": "filler-first-partners-s2",
+      "name": "First Partners S2",
+      "quantity": 244,
+      "category": "Fillers",
+      "image": "images/first-partners-s2.jpg"
+    },
+    {
+      "id": "filler-30th-poster",
+      "name": "30th Poster Collection",
+      "quantity": 184,
+      "category": "Fillers",
+      "image": "images/30th-poster.jpg"
+    },
+    {
+      "id": "filler-chaos-rising-etb",
+      "name": "Chaos Rising ETB",
+      "quantity": 154,
+      "category": "Fillers",
+      "image": "images/chaos-rising-etb.jpg"
+    },
+    {
+      "id": "filler-me5-pitch-black-etb",
+      "name": "ME5 Pitch Black ETB",
+      "quantity": 82,
+      "category": "Fillers",
+      "image": "images/pitch-black-etb.jpg"
+    },
+    {
+      "id": "filler-30th-geninja-ex-box",
+      "name": "30th Geninja EX Box",
+      "quantity": 107,
+      "category": "Fillers",
+      "image": "images/30th-greninja-ex-box.jpg"
+    },
+    {
+      "id": "filler-me3-perfect-order-etb",
+      "name": "ME3 Perfect Order ETB",
+      "quantity": 47,
+      "category": "Fillers",
+      "image": "images/perfect-order-etb.jpg"
+    },
+    {
+      "id": "filler-30th-sticker",
+      "name": "30th Sticker Collection",
+      "quantity": 48,
+      "category": "Fillers",
+      "image": "images/30th-sticker-collection.jpg"
+    },
+    {
+      "id": "filler-30th-figure",
+      "name": "30th Figure collection",
+      "quantity": 46,
+      "category": "Fillers"
+    },
+    {
+      "id": "filler-pitch-black-bb",
+      "name": "Pitch Black Booster Box",
+      "quantity": 18,
+      "category": "Fillers",
+      "image": "images/pitch-black-booster-box.jpg"
+    },
+    {
+      "id": "filler-30th-sylveon-box",
+      "name": "30th Sylveon Box",
+      "quantity": 5,
+      "category": "Fillers",
+      "image": "images/30th-sylveon-box.jpg"
+    },
+    {
+      "id": "filler-30th-greninja-tins",
+      "name": "30th Greninja Tins",
+      "quantity": 4,
+      "category": "Fillers",
+      "image": "images/30th-greninja-tin.jpg"
+    },
+    {
+      "id": "filler-chaos-bb",
+      "name": "Chaos Booster Box",
+      "quantity": 1,
+      "category": "Fillers",
+      "image": "images/chaos-rising-booster-box.jpg"
+    }
+  ]
+}
